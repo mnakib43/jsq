@@ -1,0 +1,16 @@
+.tyv{ margin-bottom: 100px; }
+.abc{
+	background-color: darkcyan;
+	padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  }
+.abd{ background-color: yellowgreen;
+  padding: 30px; 
+ text-align: center;
+ display: none;
+}
+	
+#draggable { width: 150px; height: 150px; padding: 0.5em; }
+.ggm{margin-bottom: 50px;
+margin-top: 20px;}
